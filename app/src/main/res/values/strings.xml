@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dyce</string>
+    <string name="roll_app">Roll App</string>
+    <string name="outcome">Outcome of Die 1 and Die 2</string>
+    <string name="roll">Roll the Dice</string>
+    <string name="btn1_does">btn1_does</string>
+    <string name="btn2_does">button 2 does</string>
+</resources>
